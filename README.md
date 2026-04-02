@@ -1,5 +1,3 @@
-Here is your **clean, properly formatted GitHub README version** (well-structured + professional markdown):
-
 ---
 
 # 📊 Business Sales Tracker (Advanced Web Dashboard)
